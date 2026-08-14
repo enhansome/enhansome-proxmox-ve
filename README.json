@@ -123,6 +123,20 @@
         },
         {
           "node_type": "item",
+          "title": "CV4PVE-CLI",
+          "description": "kubectl-style remote CLI for Proxmox VE with multi-cluster support and shell completion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T05:52:13Z",
+            "owner": "Corsinvest",
+            "repo": "cv4pve-cli",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CV4PVE-API",
           "description": "Official Corsinvest API client to integrate, develop and customize Proxmox in .NET/C# (NuGet).",
           "children": [],
@@ -133,20 +147,6 @@
             "owner": "Corsinvest",
             "repo": "cv4pve-api-dotnet",
             "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CV4PVE-CLI",
-          "description": "kubectl-style remote CLI for Proxmox VE with multi-cluster support and shell completion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-14T05:52:13Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-cli",
-            "stars": 83
           }
         },
         {
@@ -290,15 +290,15 @@
         {
           "node_type": "item",
           "title": "Pulse",
-          "description": null,
+          "description": "Real-time monitoring for Proxmox VE and PBS with guest, storage and backup visibility, alerting, and a multi-client mode for providers.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:02:13Z",
+            "last_commit": "2026-08-14T22:37:45Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6548
+            "stars": 6552
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1431
+            "stars": 1433
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-12T23:39:54Z",
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2026-08-13T04:56:58Z",
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 31
+            "stars": 33
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-07-14T05:52:13Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-cli",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -881,10 +881,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T20:05:32Z",
+            "last_commit": "2026-08-14T20:22:51Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29252
+            "stars": 29271
           }
         },
         {
@@ -895,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:54:33Z",
+            "last_commit": "2026-08-14T18:47:43Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2856
+            "stars": 2857
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-08-13T09:40:27Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2174
+            "stars": 2175
           }
         },
         {
@@ -923,10 +923,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T16:47:26Z",
+            "last_commit": "2026-08-14T18:32:19Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1860
+            "stars": 1863
           }
         },
         {
@@ -968,7 +968,7 @@
             "last_commit": "2026-08-10T09:07:28Z",
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 710
+            "stars": 709
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 540
+            "stars": 548
           }
         },
         {
@@ -1010,7 +1010,7 @@
             "last_commit": "2026-08-13T12:18:09Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -1049,7 +1049,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:22:26Z",
+            "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
             "stars": 254
@@ -1063,10 +1063,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:21:31Z",
+            "last_commit": "2026-08-14T15:16:49Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -1237,7 +1237,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go Template",
-            "last_commit": "2026-08-13T22:49:34Z",
+            "last_commit": "2026-08-14T22:30:42Z",
             "owner": "trueforge-org",
             "repo": "truecharts",
             "stars": 1349
@@ -1271,10 +1271,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T20:05:32Z",
+            "last_commit": "2026-08-14T20:22:51Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29252
+            "stars": 29271
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "last_commit": "2023-03-04T08:34:43Z",
             "owner": "Weilbyte",
             "repo": "PVEDiscordDark",
-            "stars": 2541
+            "stars": 2540
           }
         },
         {
@@ -1411,7 +1411,7 @@
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 535
+            "stars": 537
           }
         },
         {
@@ -1443,9 +1443,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:06:59.547Z",
+    "last_updated": "2026-08-14T22:43:51.744Z",
     "original_repository": "Corsinvest/awesome-proxmox-ve",
-    "original_repository_sha": "f35c86b01b4dfa808ecdbca150f605f5f1a85b3f",
+    "original_repository_sha": "e702f1caf73288b4e99dd50ff0e782a9d2d4191d",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE with stars"
