@@ -90,7 +90,7 @@
             "last_commit": "2026-07-30T17:05:15Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-07-30T17:05:15Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 122
+            "stars": 123
           }
         }
       ],
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T22:04:04Z",
+            "last_commit": "2026-08-17T22:43:04Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6566
+            "stars": 6574
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:44:54Z",
+            "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 507
@@ -529,7 +529,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:00:21Z",
+            "last_commit": "2026-08-17T01:41:00Z",
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 34
@@ -881,10 +881,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T20:51:31Z",
+            "last_commit": "2026-08-17T09:27:52Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29289
+            "stars": 29294
           }
         },
         {
@@ -895,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:54:05Z",
+            "last_commit": "2026-08-17T17:42:54Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2862
+            "stars": 2864
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2185
+            "stars": 2186
           }
         },
         {
@@ -923,10 +923,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T18:32:19Z",
+            "last_commit": "2026-08-17T18:51:54Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1868
+            "stars": 1871
           }
         },
         {
@@ -940,7 +940,7 @@
             "last_commit": "2026-05-17T22:56:40Z",
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -965,10 +965,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T09:07:28Z",
+            "last_commit": "2026-08-17T09:06:18Z",
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 570
+            "stars": 574
           }
         },
         {
@@ -993,7 +993,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:44:54Z",
+            "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 507
@@ -1007,7 +1007,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:18:09Z",
+            "last_commit": "2026-08-17T09:22:33Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 471
@@ -1024,7 +1024,7 @@
             "last_commit": "2026-07-18T11:02:24Z",
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 351
+            "stars": 353
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "last_commit": "2026-08-15T21:15:35Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 246
+            "stars": 249
           }
         },
         {
@@ -1237,10 +1237,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go Template",
-            "last_commit": "2026-08-16T16:56:16Z",
+            "last_commit": "2026-08-17T11:16:56Z",
             "owner": "trueforge-org",
             "repo": "truecharts",
-            "stars": 1349
+            "stars": 1350
           }
         },
         {
@@ -1271,10 +1271,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T20:51:31Z",
+            "last_commit": "2026-08-17T09:27:52Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29289
+            "stars": 29294
           }
         },
         {
@@ -1443,7 +1443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:41:14.420Z",
+    "last_updated": "2026-08-17T22:44:53.726Z",
     "original_repository": "Corsinvest/awesome-proxmox-ve",
     "original_repository_sha": "e702f1caf73288b4e99dd50ff0e782a9d2d4191d",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
