@@ -188,7 +188,7 @@
             "last_commit": "2026-06-01T07:22:08Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T22:43:04Z",
+            "last_commit": "2026-08-18T22:16:26Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6574
+            "stars": 6578
           }
         },
         {
@@ -389,6 +389,20 @@
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joulenap",
+          "description": "Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-18T09:02:20Z",
+            "owner": "Joulenap",
+            "repo": "joulenap",
+            "stars": 119
           }
         },
         {
@@ -495,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:39:54Z",
+            "last_commit": "2026-08-18T02:10:34Z",
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
-            "stars": 584
+            "stars": 585
           }
         },
         {
@@ -512,7 +526,7 @@
             "last_commit": "2026-06-01T07:22:08Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 53
+            "stars": 54
           }
         }
       ],
@@ -532,7 +546,7 @@
             "last_commit": "2026-08-17T01:41:00Z",
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -881,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T09:27:52Z",
+            "last_commit": "2026-08-18T17:38:43Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29294
+            "stars": 29307
           }
         },
         {
@@ -895,7 +909,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:42:54Z",
+            "last_commit": "2026-08-18T21:47:06Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
             "stars": 2864
@@ -912,7 +926,7 @@
             "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2186
+            "stars": 2189
           }
         },
         {
@@ -923,10 +937,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T18:51:54Z",
+            "last_commit": "2026-08-18T18:40:21Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1871
+            "stars": 1874
           }
         },
         {
@@ -954,7 +968,7 @@
             "last_commit": "2026-01-15T12:14:42Z",
             "owner": "gyptazy",
             "repo": "ProxLB",
-            "stars": 895
+            "stars": 894
           }
         },
         {
@@ -982,7 +996,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 574
+            "stars": 576
           }
         },
         {
@@ -1007,10 +1021,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:22:33Z",
+            "last_commit": "2026-08-18T09:01:36Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -1066,7 +1080,7 @@
             "last_commit": "2026-08-15T21:15:35Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -1237,10 +1251,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go Template",
-            "last_commit": "2026-08-17T11:16:56Z",
+            "last_commit": "2026-08-18T21:02:13Z",
             "owner": "trueforge-org",
             "repo": "truecharts",
-            "stars": 1350
+            "stars": 1351
           }
         },
         {
@@ -1271,10 +1285,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T09:27:52Z",
+            "last_commit": "2026-08-18T17:38:43Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29294
+            "stars": 29307
           }
         },
         {
@@ -1288,7 +1302,7 @@
             "last_commit": "2023-03-04T08:34:43Z",
             "owner": "Weilbyte",
             "repo": "PVEDiscordDark",
-            "stars": 2540
+            "stars": 2539
           }
         },
         {
@@ -1443,9 +1457,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:44:53.726Z",
+    "last_updated": "2026-08-18T22:44:36.851Z",
     "original_repository": "Corsinvest/awesome-proxmox-ve",
-    "original_repository_sha": "e702f1caf73288b4e99dd50ff0e782a9d2d4191d",
+    "original_repository_sha": "dbd30601ced81553f21254df4838fca6576ad7cd",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE with stars"
