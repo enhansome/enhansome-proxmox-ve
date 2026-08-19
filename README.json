@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629445398,
             "language": "C#",
             "last_commit": "2026-07-20T14:20:06Z",
             "owner": "Corsinvest",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1244880477,
             "language": "JavaScript",
             "last_commit": "2026-07-22T19:00:34Z",
             "owner": "P3Portal-org",
@@ -35,7 +37,7 @@
       "title": "Management"
     },
     {
-      "description": "Advanced official Corsinvest tools for integrated multi-platform Proxmox VE management.",
+      "description": "Advanced official Corsinvest tools for integrated multi-platform Proxmox VE management.\nRelated online suite:",
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76440908,
             "language": "C#",
             "last_commit": "2026-07-03T14:50:37Z",
             "owner": "Corsinvest",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629445398,
             "language": "C#",
             "last_commit": "2026-07-20T14:20:06Z",
             "owner": "Corsinvest",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215061908,
             "language": "C#",
             "last_commit": "2026-04-14T14:45:32Z",
             "owner": "Corsinvest",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692360862,
             "language": "C#",
             "last_commit": "2026-07-30T17:05:15Z",
             "owner": "Corsinvest",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209273098,
             "language": "C#",
             "last_commit": "2026-04-09T06:50:21Z",
             "owner": "Corsinvest",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206079622,
             "language": "PowerShell",
             "last_commit": "2026-07-15T10:44:49Z",
             "owner": "Corsinvest",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195868531,
             "language": "C#",
             "last_commit": "2026-07-14T05:52:13Z",
             "owner": "Corsinvest",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102229030,
             "language": "C#",
             "last_commit": "2026-06-01T12:38:48Z",
             "owner": "Corsinvest",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103121042,
             "language": "PHP",
             "last_commit": "2026-05-29T08:29:57Z",
             "owner": "Corsinvest",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103278308,
             "language": "Java",
             "last_commit": "2026-07-26T14:39:29Z",
             "owner": "Corsinvest",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193664022,
             "language": "C#",
             "last_commit": "2026-06-01T07:22:08Z",
             "owner": "Corsinvest",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218584931,
             "language": "C#",
             "last_commit": "2026-06-01T13:23:08Z",
             "owner": "Corsinvest",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436586690,
             "language": "JavaScript",
             "last_commit": "2026-05-29T08:17:57Z",
             "owner": "Corsinvest",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274717720,
             "language": "C#",
             "last_commit": "2026-04-20T09:16:38Z",
             "owner": "Corsinvest",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255879908,
             "language": "C#",
             "last_commit": "2026-04-20T08:57:11Z",
             "owner": "Corsinvest",
@@ -251,7 +268,7 @@
       "title": "CV4PVE Suite"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 467214598,
             "language": "Python",
             "last_commit": "2026-04-10T01:07:56Z",
             "owner": "joshpatten",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692360862,
             "language": "C#",
             "last_commit": "2026-07-30T17:05:15Z",
             "owner": "Corsinvest",
@@ -285,7 +304,7 @@
       "title": "VDI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-18T22:16:26Z",
+            "last_commit": "2026-08-19T08:48:15Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6578
+            "stars": 6579
           }
         },
         {
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101076642,
             "language": "Python",
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116843155,
             "language": "Python",
             "last_commit": "2026-02-05T12:05:44Z",
             "owner": "nbuchwitz",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274717720,
             "language": "C#",
             "last_commit": "2026-04-20T09:16:38Z",
             "owner": "Corsinvest",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1188084166,
             "language": "JavaScript",
             "last_commit": "2026-07-29T15:54:36Z",
             "owner": "Losstarot85",
@@ -361,7 +385,7 @@
       "title": "Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76440908,
             "language": "C#",
             "last_commit": "2026-07-03T14:50:37Z",
             "owner": "Corsinvest",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015894877,
             "language": "Go",
             "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1287505057,
             "language": "Python",
             "last_commit": "2026-08-18T09:02:20Z",
             "owner": "Joulenap",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970824436,
             "language": "Python",
             "last_commit": "2026-04-27T18:23:08Z",
             "owner": "VoltKraft",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1261962451,
             "language": "Perl",
             "last_commit": "2026-08-02T23:27:43Z",
             "owner": "bitranox",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211641859,
             "language": "Shell",
             "last_commit": "2026-07-31T13:39:35Z",
             "owner": "ferr079",
@@ -451,7 +481,7 @@
       "title": "Backup Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1065013209,
             "language": "Shell",
             "last_commit": "2026-04-02T00:23:48Z",
             "owner": "WarlockSyno",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 891429989,
             "language": "Perl",
             "last_commit": "2026-05-03T21:18:16Z",
             "owner": "kolesa-team",
@@ -488,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182029117,
             "language": "Perl",
             "last_commit": "2026-07-20T23:13:50Z",
             "owner": "brngates98",
@@ -499,7 +532,7 @@
       "title": "Storage"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -508,8 +541,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355673550,
             "language": "Python",
-            "last_commit": "2026-08-18T02:10:34Z",
+            "last_commit": "2026-08-19T10:50:42Z",
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
             "stars": 585
@@ -522,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193664022,
             "language": "C#",
             "last_commit": "2026-06-01T07:22:08Z",
             "owner": "Corsinvest",
@@ -533,7 +568,7 @@
       "title": "Inventory"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -542,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1265706142,
             "language": "Python",
             "last_commit": "2026-08-17T01:41:00Z",
             "owner": "john-broadway",
@@ -556,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155479469,
             "language": "Python",
             "last_commit": "2026-08-09T19:07:48Z",
             "owner": "rodaddy",
@@ -570,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155460154,
             "language": "Python",
             "last_commit": "2026-03-13T04:51:48Z",
             "owner": "rodaddy",
@@ -581,311 +619,332 @@
       "title": "AI"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Proxmoxia (Wrapper)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6261574,
+                    "language": "Python",
+                    "last_commit": "2013-06-02T05:33:51Z",
+                    "owner": "baseblack",
+                    "repo": "Proxmoxia",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "proxmox-utils (Console Client)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 2932377,
+                    "language": "Python",
+                    "last_commit": "2022-06-12T17:50:11Z",
+                    "owner": "sitrox",
+                    "repo": "proxmox-utils",
+                    "stars": 61
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pmxc (Console Client)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135080382,
+                    "language": "Python",
+                    "last_commit": "2021-08-18T06:34:02Z",
+                    "owner": "jochumdev",
+                    "repo": "pmxc",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-api-javascript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 436586690,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-29T08:17:57Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-api-javascript",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NodeJS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-pepper",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 215061908,
+                    "language": "C#",
+                    "last_commit": "2026-04-14T14:45:32Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-pepper",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-botgram",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209273098,
+                    "language": "C#",
+                    "last_commit": "2026-04-09T06:50:21Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-botgram",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-cli",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 195868531,
+                    "language": "C#",
+                    "last_commit": "2026-07-14T05:52:13Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-cli",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-api-dotnet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102229030,
+                    "language": "C#",
+                    "last_commit": "2026-06-01T12:38:48Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-api-dotnet",
+                    "stars": 84
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ProxmoxSharp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39652233,
+                    "language": "C#",
+                    "last_commit": "2016-12-16T16:43:42Z",
+                    "owner": "ionelanton",
+                    "repo": "ProxmoxSharp",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C#"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ProxmoxVE",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21223250,
+                    "language": "PHP",
+                    "last_commit": "2023-02-02T12:51:53Z",
+                    "owner": "zzantares",
+                    "repo": "ProxmoxVE",
+                    "stars": 176
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pve2-api-php-client",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3997776,
+                    "language": "PHP",
+                    "last_commit": "2024-06-24T20:00:16Z",
+                    "owner": "CpuID",
+                    "repo": "pve2-api-php-client",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-api-php",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103121042,
+                    "language": "PHP",
+                    "last_commit": "2026-05-29T08:29:57Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-api-php",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MrKampf/proxmoxVE",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205725898,
+                    "language": "PHP",
+                    "last_commit": "2026-08-04T20:55:29Z",
+                    "owner": "MrKampf",
+                    "repo": "proxmoxVE",
+                    "stars": 60
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pve-cli-utils",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104092971,
+                    "language": "PHP",
+                    "last_commit": "2021-01-31T18:00:39Z",
+                    "owner": "aheahe",
+                    "repo": "pve-cli-utils",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PHP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cv4pve-api-java",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103278308,
+                    "language": "Java",
+                    "last_commit": "2026-07-26T14:39:29Z",
+                    "owner": "Corsinvest",
+                    "repo": "cv4pve-api-java",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pve2-api-java",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4388451,
+                    "language": "Java",
+                    "last_commit": "2012-05-23T12:50:03Z",
+                    "owner": "elbandi",
+                    "repo": "pve2-api-java",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "proxmox-api-go",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81260810,
+                    "language": "Go",
+                    "last_commit": "2026-08-16T19:33:59Z",
+                    "owner": "Telmate",
+                    "repo": "proxmox-api-go",
+                    "stars": 490
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "go-proxmox",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 376145235,
+                    "language": "Go",
+                    "last_commit": "2026-08-09T05:15:12Z",
+                    "owner": "luthermonson",
+                    "repo": "go-proxmox",
+                    "stars": 280
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Maintained"
+        }
+      ],
       "title": "API & SDKs"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Community Maintained"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Proxmoxia (Wrapper)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2013-06-02T05:33:51Z",
-            "owner": "baseblack",
-            "repo": "Proxmoxia",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proxmox-utils (Console Client)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-06-12T17:50:11Z",
-            "owner": "sitrox",
-            "repo": "proxmox-utils",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pmxc (Console Client)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-18T06:34:02Z",
-            "owner": "jochumdev",
-            "repo": "pmxc",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cv4pve-api-javascript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-29T08:17:57Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-api-javascript",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmiCole/pvea",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "NodeJS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cv4pve-pepper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-14T14:45:32Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-pepper",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cv4pve-botgram",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-09T06:50:21Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-botgram",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cv4pve-cli",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-14T05:52:13Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-cli",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cv4pve-api-dotnet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-01T12:38:48Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-api-dotnet",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProxmoxSharp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2016-12-16T16:43:42Z",
-            "owner": "ionelanton",
-            "repo": "ProxmoxSharp",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "C#"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ProxmoxVE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-02-02T12:51:53Z",
-            "owner": "zzantares",
-            "repo": "ProxmoxVE",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pve2-api-php-client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-24T20:00:16Z",
-            "owner": "CpuID",
-            "repo": "pve2-api-php-client",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cv4pve-api-php",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-29T08:29:57Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-api-php",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MrKampf/proxmoxVE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-04T20:55:29Z",
-            "owner": "MrKampf",
-            "repo": "proxmoxVE",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pve-cli-utils",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-01-31T18:00:39Z",
-            "owner": "aheahe",
-            "repo": "pve-cli-utils",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cv4pve-api-java",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-26T14:39:29Z",
-            "owner": "Corsinvest",
-            "repo": "cv4pve-api-java",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pve2-api-java",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2012-05-23T12:50:03Z",
-            "owner": "elbandi",
-            "repo": "pve2-api-java",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "proxmox-api-go",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T19:33:59Z",
-            "owner": "Telmate",
-            "repo": "proxmox-api-go",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-proxmox",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-09T05:15:12Z",
-            "owner": "luthermonson",
-            "repo": "go-proxmox",
-            "stars": 280
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -894,11 +953,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-18T17:38:43Z",
+            "last_commit": "2026-08-19T02:49:30Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29307
+            "stars": 29318
           }
         },
         {
@@ -908,11 +968,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:47:06Z",
+            "last_commit": "2026-08-19T09:46:23Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2864
+            "stars": 2865
           }
         },
         {
@@ -922,6 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404135384,
             "language": "Go",
             "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
@@ -936,11 +998,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632102111,
             "language": "Shell",
             "last_commit": "2026-08-18T18:40:21Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1874
+            "stars": 1875
           }
         },
         {
@@ -950,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 664006718,
             "language": "Shell",
             "last_commit": "2026-05-17T22:56:40Z",
             "owner": "Danilop95",
@@ -964,6 +1028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825268913,
             "language": "Python",
             "last_commit": "2026-01-15T12:14:42Z",
             "owner": "gyptazy",
@@ -978,6 +1043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 977212376,
             "language": "Go",
             "last_commit": "2026-08-17T09:06:18Z",
             "owner": "devnullvoid",
@@ -992,6 +1058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013641879,
             "language": "Ruby",
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
@@ -1006,6 +1073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015894877,
             "language": "Go",
             "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
@@ -1020,11 +1088,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725111108,
             "language": "Go",
-            "last_commit": "2026-08-18T09:01:36Z",
+            "last_commit": "2026-08-19T00:33:02Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1034,6 +1103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214386818,
             "language": "Shell",
             "last_commit": "2026-07-18T11:02:24Z",
             "owner": "rcarmo",
@@ -1048,6 +1118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864497613,
             "language": "Python",
             "last_commit": "2026-07-20T12:46:41Z",
             "owner": "fabriziosalmi",
@@ -1062,6 +1133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842197070,
             "language": "Python",
             "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
@@ -1076,8 +1148,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153257898,
             "language": "Python",
-            "last_commit": "2026-08-15T21:15:35Z",
+            "last_commit": "2026-08-19T03:04:10Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
             "stars": 250
@@ -1090,6 +1163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847110660,
             "language": "Python",
             "last_commit": "2026-07-26T20:42:41Z",
             "owner": "fabriziosalmi",
@@ -1104,6 +1178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047673244,
             "language": "Shell",
             "last_commit": "2026-07-22T11:45:48Z",
             "owner": "TimInTech",
@@ -1118,6 +1193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025383607,
             "language": "Go",
             "last_commit": "2026-08-16T06:57:41Z",
             "owner": "AthenaNetworks",
@@ -1132,6 +1208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956858863,
             "language": "Python",
             "last_commit": "2026-05-12T21:23:13Z",
             "owner": "Reginleif88",
@@ -1146,6 +1223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1120230131,
             "language": "Rust",
             "last_commit": "2026-01-15T12:18:44Z",
             "owner": "gyptazy",
@@ -1160,6 +1238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135929359,
             "language": "Rust",
             "last_commit": "2026-01-22T15:49:09Z",
             "owner": "gyptazy",
@@ -1174,6 +1253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060849762,
             "language": "Python",
             "last_commit": "2026-06-11T11:16:46Z",
             "owner": "AungThuMyint",
@@ -1188,6 +1268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1318468020,
             "language": "Python",
             "last_commit": "2026-08-04T06:35:57Z",
             "owner": "PawelSzymanski89",
@@ -1202,6 +1283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204869693,
             "language": "Python",
             "last_commit": "2026-04-08T12:40:04Z",
             "owner": "NordicsSys",
@@ -1216,6 +1298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1275633315,
             "language": "Shell",
             "last_commit": "2026-06-29T23:50:26Z",
             "owner": "Flowtriq",
@@ -1230,6 +1313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211395509,
             "language": "Rust",
             "last_commit": "2026-04-16T08:06:53Z",
             "owner": "abdoufermat5",
@@ -1241,7 +1325,7 @@
       "title": "Other Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1250,8 +1334,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323109016,
             "language": "Go Template",
-            "last_commit": "2026-08-18T21:02:13Z",
+            "last_commit": "2026-08-19T12:27:29Z",
             "owner": "trueforge-org",
             "repo": "truecharts",
             "stars": 1351
@@ -1264,6 +1349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62335318,
             "language": null,
             "last_commit": "2026-07-18T14:32:57Z",
             "owner": "linuxserver",
@@ -1275,7 +1361,7 @@
       "title": "Templates & Marketplace"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1284,11 +1370,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-18T17:38:43Z",
+            "last_commit": "2026-08-19T02:49:30Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29307
+            "stars": 29318
           }
         },
         {
@@ -1298,6 +1385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172342783,
             "language": "Sass",
             "last_commit": "2023-03-04T08:34:43Z",
             "owner": "Weilbyte",
@@ -1312,6 +1400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76440908,
             "language": "C#",
             "last_commit": "2026-07-03T14:50:37Z",
             "owner": "Corsinvest",
@@ -1326,6 +1415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1305171733,
             "language": "Shell",
             "last_commit": "2026-08-15T20:09:58Z",
             "owner": "Garfieldttt",
@@ -1340,6 +1430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617577411,
             "language": "Shell",
             "last_commit": "2023-03-24T10:15:04Z",
             "owner": "Aizen-Barbaros",
@@ -1354,6 +1445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 981161157,
             "language": "Shell",
             "last_commit": "2026-06-29T21:43:42Z",
             "owner": "sannier3",
@@ -1368,51 +1460,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213879277,
             "language": "Shell",
             "last_commit": "2026-07-31T14:05:11Z",
             "owner": "ferr079",
             "repo": "homelab-scripts",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Proxmox VE Backup Checker",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "PVE7to8 - Major Upgrade Script",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Proxmox Mail Gateway Custom Themes",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Utilities & Scripts"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "YouTube Channels"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mobile Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Desktop Apps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1421,11 +1481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047884111,
             "language": null,
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -1435,6 +1496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127639606,
             "language": null,
             "last_commit": "2026-01-05T10:22:42Z",
             "owner": "SwamiRama",
@@ -1444,21 +1506,12 @@
         }
       ],
       "title": "Documentation"
-    },
-    {
-      "description": "Contributions are welcome! Please read CONTRIBUTING.md before opening a pull request.\nThe short version: new entries are always appended at the end of their section, one suggestion per pull request.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This list is under the Creative Commons Attribution-ShareAlike 1.0 Generic License. Terms of the license are summarized in the link above.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:44:36.851Z",
+    "last_updated": "2026-08-19T12:46:21.594Z",
     "original_repository": "Corsinvest/awesome-proxmox-ve",
+    "original_repository_id": 237597984,
     "original_repository_sha": "dbd30601ced81553f21254df4838fca6576ad7cd",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
