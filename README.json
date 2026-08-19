@@ -315,7 +315,7 @@
             "archived": false,
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-19T08:48:15Z",
+            "last_commit": "2026-08-19T20:05:22Z",
             "owner": "rcourtman",
             "repo": "Pulse",
             "stars": 6579
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 101076642,
             "language": "Python",
-            "last_commit": "2026-08-12T14:14:31Z",
+            "last_commit": "2026-08-19T14:13:23Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
             "stars": 1435
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 355673550,
             "language": "Python",
-            "last_commit": "2026-08-19T10:50:42Z",
+            "last_commit": "2026-08-19T22:43:15Z",
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
             "stars": 585
@@ -955,10 +955,10 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-19T02:49:30Z",
+            "last_commit": "2026-08-19T21:15:54Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29318
+            "stars": 29328
           }
         },
         {
@@ -970,10 +970,10 @@
             "archived": false,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:46:23Z",
+            "last_commit": "2026-08-19T18:21:37Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2865
+            "stars": 2866
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2189
+            "stars": 2190
           }
         },
         {
@@ -1000,10 +1000,10 @@
             "archived": false,
             "id": 632102111,
             "language": "Shell",
-            "last_commit": "2026-08-18T18:40:21Z",
+            "last_commit": "2026-08-19T19:59:00Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1875
+            "stars": 1876
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-07-18T11:02:24Z",
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -1123,7 +1123,7 @@
             "last_commit": "2026-07-20T12:46:41Z",
             "owner": "fabriziosalmi",
             "repo": "proxmox-vm-autoscale",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -1336,10 +1336,10 @@
             "archived": false,
             "id": 323109016,
             "language": "Go Template",
-            "last_commit": "2026-08-19T12:27:29Z",
+            "last_commit": "2026-08-19T19:19:54Z",
             "owner": "trueforge-org",
             "repo": "truecharts",
-            "stars": 1351
+            "stars": 1352
           }
         },
         {
@@ -1372,10 +1372,10 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-19T02:49:30Z",
+            "last_commit": "2026-08-19T21:15:54Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29318
+            "stars": 29328
           }
         },
         {
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:21.594Z",
+    "last_updated": "2026-08-19T22:45:34.377Z",
     "original_repository": "Corsinvest/awesome-proxmox-ve",
     "original_repository_id": 237597984,
     "original_repository_sha": "dbd30601ced81553f21254df4838fca6576ad7cd",
