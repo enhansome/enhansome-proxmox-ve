@@ -745,7 +745,7 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:23:32Z",
+            "last_commit": "2026-08-29T04:19:20Z",
             "open_issues": 16,
             "owner": "rcourtman",
             "repo": "Pulse",
@@ -3165,7 +3165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:26.483Z",
+    "last_updated": "2026-08-29T04:34:27.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
