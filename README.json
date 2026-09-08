@@ -208,7 +208,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "csharp",
               "desktop-client",
@@ -486,7 +486,7 @@
             "open_issues": 2,
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "audit",
               "cluster",
@@ -525,7 +525,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-diag",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "audit",
               "cross-platform",
@@ -705,7 +705,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "csharp",
               "desktop-client",
@@ -745,11 +745,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-06T23:44:23Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-08T00:17:41Z",
+            "open_issues": 49,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6675,
+            "stars": 6677,
             "topics": [
               "ai",
               "alerts",
@@ -961,8 +961,8 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T23:27:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-07T22:14:16Z",
+            "open_issues": 5,
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 515,
@@ -983,7 +983,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-06T22:32:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Joulenap",
             "repo": "joulenap",
             "stars": 125,
@@ -1138,7 +1138,7 @@
             "language": "Perl",
             "license": "MIT",
             "last_commit": "2026-09-06T19:55:36Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "kolesa-team",
             "repo": "pve-purestorage-plugin",
             "stars": 42,
@@ -1230,7 +1230,7 @@
             "open_issues": 2,
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "audit",
               "cluster",
@@ -2040,7 +2040,7 @@
                     "open_issues": 128,
                     "owner": "Telmate",
                     "repo": "terraform-provider-proxmox",
-                    "stars": 2951,
+                    "stars": 2952,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2073,11 +2073,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:01:12Z",
+            "last_commit": "2026-09-07T21:13:27Z",
             "open_issues": 18,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29513,
+            "stars": 29517,
             "topics": [
               "alpine",
               "authentification",
@@ -2115,11 +2115,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T08:42:08Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-07T20:57:06Z",
+            "open_issues": 12,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2956,
+            "stars": 2959,
             "topics": [
               "backup",
               "bash",
@@ -2147,11 +2147,11 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-06T14:10:29Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-08T00:27:30Z",
+            "open_issues": 101,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2215,
+            "stars": 2217,
             "topics": [
               "opentofu",
               "proxmox",
@@ -2177,7 +2177,7 @@
             "open_issues": 21,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1903,
+            "stars": 1904,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2198,7 +2198,7 @@
             "open_issues": 10,
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "automation-scripts",
               "debian",
@@ -2229,7 +2229,7 @@
             "open_issues": 16,
             "owner": "gyptazy",
             "repo": "ProxLB",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "automation",
               "cicd",
@@ -2265,8 +2265,8 @@
             "id": 977212376,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T09:06:41Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T09:06:52Z",
+            "open_issues": 17,
             "owner": "devnullvoid",
             "repo": "pvetui",
             "stars": 720,
@@ -2324,8 +2324,8 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T23:27:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-07T22:14:16Z",
+            "open_issues": 5,
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 515,
@@ -2345,8 +2345,8 @@
             "id": 725111108,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T00:34:44Z",
-            "open_issues": 119,
+            "last_commit": "2026-09-07T14:23:27Z",
+            "open_issues": 116,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 478,
@@ -2374,7 +2374,7 @@
             "open_issues": 0,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 372,
+            "stars": 374,
             "topics": [
               "homelab",
               "microvm",
@@ -2396,11 +2396,11 @@
             "id": 864497613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:29:14Z",
+            "last_commit": "2026-09-07T16:52:47Z",
             "open_issues": 0,
             "owner": "fabriziosalmi",
             "repo": "proxmox-vm-autoscale",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "autoscale",
               "autoscaling",
@@ -2463,11 +2463,11 @@
             "id": 842197070,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T23:52:32Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-07T17:55:02Z",
+            "open_issues": 15,
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 258,
+            "stars": 257,
             "topics": [
               "autoscaler",
               "autoscaling",
@@ -2652,7 +2652,7 @@
             "open_issues": 0,
             "owner": "gyptazy",
             "repo": "ProxSnap",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "proxmox",
               "proxmox-api",
@@ -2682,7 +2682,7 @@
             "open_issues": 0,
             "owner": "AungThuMyint",
             "repo": "ProxmoxReportGenerator",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2698,8 +2698,8 @@
             "homepage": null,
             "id": 1318468020,
             "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-04T06:35:57Z",
+            "license": "MIT",
+            "last_commit": "2026-09-07T13:43:16Z",
             "open_issues": 0,
             "owner": "PawelSzymanski89",
             "repo": "valheim-proxmox",
@@ -2832,11 +2832,11 @@
             "id": 323109016,
             "language": "Go Template",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T19:04:18Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-07T20:15:07Z",
+            "open_issues": 12,
             "owner": "trueforge-org",
             "repo": "truecharts",
-            "stars": 1353,
+            "stars": 1354,
             "topics": [
               "apps",
               "charts",
@@ -2891,11 +2891,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:01:12Z",
+            "last_commit": "2026-09-07T21:13:27Z",
             "open_issues": 18,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29513,
+            "stars": 29517,
             "topics": [
               "alpine",
               "authentification",
@@ -3050,7 +3050,7 @@
             "open_issues": 0,
             "owner": "sannier3",
             "repo": "proxmox-vmid-updater",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "proxmox",
               "proxmox-tools",
@@ -3097,6 +3097,88 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ProxmoxBar",
+              "description": "Native macOS menu bar app for monitoring and controlling Proxmox VE resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Control and monitor your Proxmox VE servers from the macOS menu bar",
+                "homepage": null,
+                "id": 1131928615,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-09-02T01:43:04Z",
+                "open_issues": 2,
+                "owner": "ryzenixx",
+                "repo": "proxmoxbar-macos",
+                "stars": 180,
+                "topics": [
+                  "homelab",
+                  "macos",
+                  "macos-app",
+                  "menubar",
+                  "monitoring",
+                  "proxmox",
+                  "proxmox-ve",
+                  "self-hosted",
+                  "swift",
+                  "swiftui",
+                  "virtualization"
+                ]
+              },
+              "first_seen": "2026-09-08T00:30:03.433Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "macOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PVE Center",
+              "description": "Native desktop client for Proxmox VE: monitoring, VM/container management, backups and direct Proxmox Backup Server integration (PySide6, Windows and Linux).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Desktop client for managing Proxmox VE clusters",
+                "homepage": null,
+                "id": 1259059007,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-07T13:36:38Z",
+                "open_issues": 0,
+                "owner": "mcluremail",
+                "repo": "pvecenter",
+                "stars": 0,
+                "topics": [
+                  "dashboard",
+                  "proxmox",
+                  "pve",
+                  "pyside6",
+                  "qt",
+                  "virtualization",
+                  "vm-management"
+                ]
+              },
+              "first_seen": "2026-09-08T00:30:03.433Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows & Linux"
+        }
+      ],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Proxmox Hardening Guide",
           "description": "Actionable recommendations to secure Proxmox VE and Proxmox Backup Server.",
@@ -3112,7 +3194,7 @@
             "open_issues": 0,
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "ceph",
               "cis",
@@ -3165,7 +3247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:01:44.922Z",
+    "last_updated": "2026-09-08T00:30:03.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
@@ -3173,11 +3255,11 @@
       "id": 237597984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-26T06:35:53Z",
+      "last_commit": "2026-09-07T20:24:46Z",
       "open_issues": 0,
       "owner": "Corsinvest",
       "repo": "awesome-proxmox-ve",
-      "stars": 1096,
+      "stars": 1097,
       "topics": [
         "article",
         "awesome",
@@ -3191,7 +3273,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "314d3ce4099eaf4ff8ed3845e9ce50e7d1553fc2",
+    "original_repository_sha": "1cc3789e35574a53d40e1576ddd7be8410643004",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE with stars"
