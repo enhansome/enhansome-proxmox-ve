@@ -746,10 +746,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-17T13:19:40Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6719,
+            "stars": 6725,
             "topics": [
               "ai",
               "alerts",
@@ -791,7 +791,7 @@
             "open_issues": 36,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -962,10 +962,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-16T19:38:19Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 0,
             "owner": "VoltKraft",
             "repo": "PBS_Chunk_Checker",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "pbs",
               "proxmox",
@@ -1048,7 +1048,7 @@
             "open_issues": 0,
             "owner": "bitranox",
             "repo": "pve-bindsnap",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "bind-mount",
               "containers",
@@ -1275,7 +1275,7 @@
             "open_issues": 0,
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "a2a",
               "agents",
@@ -2037,7 +2037,7 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-09-14T17:02:44Z",
-                    "open_issues": 129,
+                    "open_issues": 128,
                     "owner": "Telmate",
                     "repo": "terraform-provider-proxmox",
                     "stars": 2953,
@@ -2073,11 +2073,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:00:21Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-18T21:32:41Z",
+            "open_issues": 21,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29607,
+            "stars": 29609,
             "topics": [
               "alpine",
               "authentification",
@@ -2115,11 +2115,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T15:57:49Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-18T19:13:21Z",
+            "open_issues": 12,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2978,
+            "stars": 2981,
             "topics": [
               "backup",
               "bash",
@@ -2151,7 +2151,7 @@
             "open_issues": 101,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2231,
+            "stars": 2233,
             "topics": [
               "opentofu",
               "proxmox",
@@ -2174,10 +2174,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-17T17:00:43Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1921,
+            "stars": 1922,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2198,7 +2198,7 @@
             "open_issues": 10,
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "automation-scripts",
               "debian",
@@ -2298,7 +2298,7 @@
             "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "automation",
               "container",
@@ -2325,10 +2325,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-16T19:38:19Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2345,11 +2345,11 @@
             "id": 725111108,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T00:33:06Z",
+            "last_commit": "2026-09-18T08:45:40Z",
             "open_issues": 119,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "cluster-api",
               "kubernetes",
@@ -2427,7 +2427,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T17:24:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
             "stars": 274,
@@ -2485,41 +2485,6 @@
         },
         {
           "node_type": "item",
-          "title": "lws",
-          "description": "Unified CLI for Proxmox, LXC, and Docker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Unified command line interface for Proxmox, LXC and Docker.",
-            "homepage": "https://fabriziosalmi.github.io/lws/",
-            "id": 847110660,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-13T20:43:37Z",
-            "open_issues": 6,
-            "owner": "fabriziosalmi",
-            "repo": "lws",
-            "stars": 75,
-            "topics": [
-              "cli",
-              "command-line",
-              "command-line-tool",
-              "docker",
-              "fun",
-              "lxc",
-              "lxc-containers",
-              "lxc-lxd",
-              "lxc-templates",
-              "proxmox",
-              "proxmox-cluster",
-              "proxmox-ve",
-              "scalability"
-            ]
-          },
-          "first_seen": "2026-08-28T06:10:47.165Z"
-        },
-        {
-          "node_type": "item",
           "title": "Proxmox Manager",
           "description": "CLI toolkit for common Proxmox VE administration tasks.",
           "children": [],
@@ -2534,7 +2499,7 @@
             "open_issues": 1,
             "owner": "TimInTech",
             "repo": "proxmox-manager",
-            "stars": 72,
+            "stars": 79,
             "topics": [
               "automation",
               "bash",
@@ -2552,6 +2517,41 @@
               "tui",
               "virtualization",
               "vm"
+            ]
+          },
+          "first_seen": "2026-08-28T06:10:47.165Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lws",
+          "description": "Unified CLI for Proxmox, LXC, and Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unified command line interface for Proxmox, LXC and Docker.",
+            "homepage": "https://fabriziosalmi.github.io/lws/",
+            "id": 847110660,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-18T07:50:50Z",
+            "open_issues": 5,
+            "owner": "fabriziosalmi",
+            "repo": "lws",
+            "stars": 75,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "docker",
+              "fun",
+              "lxc",
+              "lxc-containers",
+              "lxc-lxd",
+              "lxc-templates",
+              "proxmox",
+              "proxmox-cluster",
+              "proxmox-ve",
+              "scalability"
             ]
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2668,6 +2668,27 @@
         },
         {
           "node_type": "item",
+          "title": "Proxmox Report Generator",
+          "description": "Generate infrastructure reports for Proxmox VE clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Report PDF Generator For Your Proxmox Virtual Environment",
+            "homepage": null,
+            "id": 1060849762,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-11T11:16:46Z",
+            "open_issues": 0,
+            "owner": "AungThuMyint",
+            "repo": "ProxmoxReportGenerator",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:10:47.165Z"
+        },
+        {
+          "node_type": "item",
           "title": "valheim-proxmox",
           "description": "One-command Valheim dedicated server in an LXC, with a web panel for players, bans, worlds, backups and mods.",
           "children": [],
@@ -2695,27 +2716,6 @@
               "steamcmd",
               "valheim"
             ]
-          },
-          "first_seen": "2026-08-28T06:10:47.165Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Proxmox Report Generator",
-          "description": "Generate infrastructure reports for Proxmox VE clusters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Report PDF Generator For Your Proxmox Virtual Environment",
-            "homepage": null,
-            "id": 1060849762,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-11T11:16:46Z",
-            "open_issues": 0,
-            "owner": "AungThuMyint",
-            "repo": "ProxmoxReportGenerator",
-            "stars": 11,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
         },
@@ -2832,7 +2832,7 @@
             "id": 323109016,
             "language": "Go Template",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T00:08:52Z",
+            "last_commit": "2026-09-19T00:08:55Z",
             "open_issues": 8,
             "owner": "trueforge-org",
             "repo": "truecharts",
@@ -2891,11 +2891,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:00:21Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-18T21:32:41Z",
+            "open_issues": 21,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29607,
+            "stars": 29609,
             "topics": [
               "alpine",
               "authentification",
@@ -3247,7 +3247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:27:12.495Z",
+    "last_updated": "2026-09-19T00:24:59.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
@@ -3259,7 +3259,7 @@
       "open_issues": 0,
       "owner": "Corsinvest",
       "repo": "awesome-proxmox-ve",
-      "stars": 1104,
+      "stars": 1105,
       "topics": [
         "article",
         "awesome",
