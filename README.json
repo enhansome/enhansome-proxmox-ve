@@ -15,7 +15,7 @@
             "id": 629445398,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T16:33:38Z",
+            "last_commit": "2026-09-25T14:42:59Z",
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-admin",
@@ -125,7 +125,7 @@
             "id": 629445398,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T16:33:38Z",
+            "last_commit": "2026-09-25T14:42:59Z",
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-admin",
@@ -208,7 +208,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "csharp",
               "desktop-client",
@@ -362,7 +362,7 @@
             "open_issues": 0,
             "owner": "Corsinvest",
             "repo": "cv4pve-api-dotnet",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "api",
               "api-client",
@@ -445,7 +445,7 @@
             "open_issues": 0,
             "owner": "Corsinvest",
             "repo": "cv4pve-api-java",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "api",
               "api-client",
@@ -684,7 +684,7 @@
             "open_issues": 44,
             "owner": "joshpatten",
             "repo": "PVE-VDIClient",
-            "stars": 1093,
+            "stars": 1094,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -705,7 +705,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-vdi",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "csharp",
               "desktop-client",
@@ -740,16 +740,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
+            "description": "Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.",
             "homepage": "https://pulserelay.pro",
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:37:35Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-25T06:57:10Z",
+            "open_issues": 63,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6744,
+            "stars": 6752,
             "topics": [
               "ai",
               "alerts",
@@ -965,7 +965,7 @@
             "open_issues": 1,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 527,
+            "stars": 528,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -986,7 +986,7 @@
             "open_issues": 4,
             "owner": "Joulenap",
             "repo": "joulenap",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "backup",
               "docker",
@@ -1185,11 +1185,11 @@
             "id": 355673550,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T23:39:56Z",
+            "last_commit": "2026-09-25T04:55:24Z",
             "open_issues": 1,
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
-            "stars": 595,
+            "stars": 597,
             "topics": [
               "api",
               "community",
@@ -1694,7 +1694,7 @@
                     "open_issues": 0,
                     "owner": "Corsinvest",
                     "repo": "cv4pve-api-dotnet",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": [
                       "api",
                       "api-client",
@@ -1910,7 +1910,7 @@
                     "open_issues": 0,
                     "owner": "Corsinvest",
                     "repo": "cv4pve-api-java",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "api",
                       "api-client",
@@ -2073,11 +2073,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:20:49Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-26T00:35:38Z",
+            "open_issues": 28,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29660,
+            "stars": 29670,
             "topics": [
               "alpine",
               "authentification",
@@ -2115,11 +2115,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T09:20:47Z",
+            "last_commit": "2026-09-26T00:21:37Z",
             "open_issues": 16,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2992,
+            "stars": 2994,
             "topics": [
               "backup",
               "bash",
@@ -2147,11 +2147,11 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-22T03:11:43Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-25T12:39:44Z",
+            "open_issues": 97,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2236,
+            "stars": 2238,
             "topics": [
               "opentofu",
               "proxmox",
@@ -2174,10 +2174,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-24T20:38:07Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1931,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2198,7 +2198,7 @@
             "open_issues": 10,
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "automation-scripts",
               "debian",
@@ -2269,7 +2269,7 @@
             "open_issues": 18,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 724,
+            "stars": 726,
             "topics": [
               "go",
               "proxmox",
@@ -2294,7 +2294,7 @@
             "id": 1013641879,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:22:20Z",
+            "last_commit": "2026-09-25T09:15:25Z",
             "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
@@ -2328,7 +2328,7 @@
             "open_issues": 1,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 527,
+            "stars": 528,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2345,7 +2345,7 @@
             "id": 725111108,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T12:08:55Z",
+            "last_commit": "2026-09-25T13:18:01Z",
             "open_issues": 130,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
@@ -2374,7 +2374,7 @@
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "homelab",
               "microvm",
@@ -2836,7 +2836,7 @@
             "open_issues": 9,
             "owner": "trueforge-org",
             "repo": "truecharts",
-            "stars": 1356,
+            "stars": 1355,
             "topics": [
               "apps",
               "charts",
@@ -2891,11 +2891,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:20:49Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-26T00:35:38Z",
+            "open_issues": 28,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29660,
+            "stars": 29670,
             "topics": [
               "alpine",
               "authentification",
@@ -3150,8 +3150,8 @@
                 "id": 1157832039,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T00:31:53Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-25T22:31:05Z",
+                "open_issues": 14,
                 "owner": "evdanil",
                 "repo": "vscode-NexTerminal",
                 "stars": 14,
@@ -3215,7 +3215,7 @@
             "open_issues": 0,
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "ceph",
               "cis",
@@ -3268,7 +3268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:36:04.722Z",
+    "last_updated": "2026-09-26T00:40:39.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
@@ -3276,11 +3276,11 @@
       "id": 237597984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T18:44:19Z",
+      "last_commit": "2026-09-25T19:32:55Z",
       "open_issues": 0,
       "owner": "Corsinvest",
       "repo": "awesome-proxmox-ve",
-      "stars": 1107,
+      "stars": 1109,
       "topics": [
         "article",
         "awesome",
@@ -3294,7 +3294,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "f1876999fd2defcefb81252220f3df8b08b61413",
+    "original_repository_sha": "5ac6da6c2e33b0c192063d58b7d24392312f3c63",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE with stars"
