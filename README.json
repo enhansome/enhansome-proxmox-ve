@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-admin",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "admin",
               "automation",
@@ -129,7 +129,7 @@
             "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-admin",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "admin",
               "automation",
@@ -521,8 +521,8 @@
             "id": 218584931,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T14:41:29Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-27T17:00:43Z",
+            "open_issues": 3,
             "owner": "Corsinvest",
             "repo": "cv4pve-diag",
             "stars": 55,
@@ -684,7 +684,7 @@
             "open_issues": 44,
             "owner": "joshpatten",
             "repo": "PVE-VDIClient",
-            "stars": 1094,
+            "stars": 1095,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -745,11 +745,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-26T23:58:20Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-28T00:10:30Z",
+            "open_issues": 60,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6756,
+            "stars": 6760,
             "topics": [
               "ai",
               "alerts",
@@ -791,7 +791,7 @@
             "open_issues": 41,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1455,
+            "stars": 1457,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -900,6 +900,38 @@
             ]
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pve-metrics-exporter",
+          "description": "Prometheus and Glance exporter for Proxmox VE: node, VM and LXC resource usage plus CPU/GPU/NVMe temperatures from lm-sensors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Proxmox VE exporter for Prometheus + Glance — resource metrics and hardware sensor temperatures (CPU/GPU/NVMe) from one shared cache.",
+            "homepage": "https://github.com/drumandbytes/pve-metrics-exporter/pkgs/container/pve-metrics-exporter",
+            "id": 1350888846,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-27T19:19:59Z",
+            "open_issues": 0,
+            "owner": "drumandbytes",
+            "repo": "pve-metrics-exporter",
+            "stars": 0,
+            "topics": [
+              "glance",
+              "golang",
+              "homelab",
+              "lm-sensors",
+              "monitoring",
+              "prometheus",
+              "prometheus-exporter",
+              "proxmox",
+              "proxmox-ve",
+              "temperature-monitoring"
+            ]
+          },
+          "first_seen": "2026-09-28T00:53:01.081Z"
         }
       ],
       "title": "Monitoring"
@@ -961,8 +993,8 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T14:06:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-27T13:33:35Z",
+            "open_issues": 4,
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 528,
@@ -1189,7 +1221,7 @@
             "open_issues": 1,
             "owner": "emersonfelipesp",
             "repo": "netbox-proxbox",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "api",
               "community",
@@ -1252,6 +1284,47 @@
             ]
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Homedex",
+          "description": "Read-only homelab inventory that lists Proxmox VE nodes, VMs and LXC containers with a PVEAuditor token and links them to Docker services, reverse proxy routes and certificate expiry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the link.",
+            "homepage": "https://harshshah0203.github.io/homedex/",
+            "id": 1302546604,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-27T16:57:08Z",
+            "open_issues": 7,
+            "owner": "HarshShah0203",
+            "repo": "homedex",
+            "stars": 57,
+            "topics": [
+              "caddy",
+              "docker",
+              "docker-compose",
+              "documentation",
+              "golang",
+              "homelab",
+              "infrastructure",
+              "inventory",
+              "nginx",
+              "nginx-proxy-manager",
+              "podman",
+              "proxmox",
+              "reverse-proxy",
+              "self-hosted",
+              "selfhosted",
+              "svelte",
+              "sysadmin",
+              "tailscale",
+              "traefik"
+            ]
+          },
+          "first_seen": "2026-09-28T00:53:01.081Z"
         }
       ],
       "title": "Inventory"
@@ -1271,7 +1344,7 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T03:04:27Z",
+            "last_commit": "2026-09-27T02:58:49Z",
             "open_issues": 1,
             "owner": "john-broadway",
             "repo": "proximo",
@@ -2040,7 +2113,7 @@
                     "open_issues": 130,
                     "owner": "Telmate",
                     "repo": "terraform-provider-proxmox",
-                    "stars": 2955,
+                    "stars": 2953,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2073,11 +2146,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-27T00:05:34Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-28T00:41:50Z",
+            "open_issues": 22,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29677,
+            "stars": 29684,
             "topics": [
               "alpine",
               "authentification",
@@ -2115,11 +2188,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T19:43:49Z",
+            "last_commit": "2026-09-27T21:01:50Z",
             "open_issues": 16,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 3004,
+            "stars": 3020,
             "topics": [
               "backup",
               "bash",
@@ -2151,7 +2224,7 @@
             "open_issues": 101,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2237,
+            "stars": 2238,
             "topics": [
               "opentofu",
               "proxmox",
@@ -2173,11 +2246,11 @@
             "id": 632102111,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-26T09:12:07Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-27T18:58:10Z",
+            "open_issues": 21,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1935,
+            "stars": 1936,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -2269,7 +2342,7 @@
             "open_issues": 18,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 727,
+            "stars": 728,
             "topics": [
               "go",
               "proxmox",
@@ -2324,8 +2397,8 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T14:06:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-27T13:33:35Z",
+            "open_issues": 4,
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 528,
@@ -2349,7 +2422,7 @@
             "open_issues": 130,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "cluster-api",
               "kubernetes",
@@ -2430,7 +2503,7 @@
             "open_issues": 1,
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "apple",
               "hackintosh",
@@ -2533,8 +2606,8 @@
             "id": 847110660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:50:50Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-27T20:43:40Z",
+            "open_issues": 6,
             "owner": "fabriziosalmi",
             "repo": "lws",
             "stars": 75,
@@ -2832,8 +2905,8 @@
             "id": 323109016,
             "language": "Go Template",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T00:09:21Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-28T00:10:03Z",
+            "open_issues": 10,
             "owner": "trueforge-org",
             "repo": "truecharts",
             "stars": 1355,
@@ -2891,11 +2964,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-27T00:05:34Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-28T00:41:50Z",
+            "open_issues": 22,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29677,
+            "stars": 29684,
             "topics": [
               "alpine",
               "authentification",
@@ -3008,7 +3081,7 @@
             "open_issues": 0,
             "owner": "Garfieldttt",
             "repo": "pve-disk-shrink",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
@@ -3089,6 +3162,35 @@
             ]
           },
           "first_seen": "2026-08-28T06:10:47.165Z"
+        },
+        {
+          "node_type": "item",
+          "title": "proxmox-ct-deploy",
+          "description": "Deploy a Docker Compose app to an LXC container from your laptop over LAN or Tailscale: sync, migrations after the DB is healthy, generation-managed Postgres backups, and the Cloudflare Tunnel / webhook gotchas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deploy a Docker Compose app to a Proxmox LXC from your laptop (LAN or Tailscale) — with migrations, backups, and the gotchas that cost hours.",
+            "homepage": null,
+            "id": 1390956593,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-27T14:38:42Z",
+            "open_issues": 0,
+            "owner": "answ-kaz",
+            "repo": "proxmox-ct-deploy",
+            "stars": 0,
+            "topics": [
+              "cloudflare-tunnel",
+              "deployment",
+              "docker-compose",
+              "homelab",
+              "lxc",
+              "proxmox",
+              "tailscale"
+            ]
+          },
+          "first_seen": "2026-09-28T00:53:01.081Z"
         }
       ],
       "title": "Utilities & Scripts"
@@ -3150,8 +3252,8 @@
                 "id": 1157832039,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T00:24:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-27T02:43:40Z",
+                "open_issues": 0,
                 "owner": "evdanil",
                 "repo": "vscode-NexTerminal",
                 "stars": 14,
@@ -3215,7 +3317,7 @@
             "open_issues": 0,
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "ceph",
               "cis",
@@ -3268,7 +3370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:41:35.025Z",
+    "last_updated": "2026-09-28T00:53:01.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
@@ -3276,11 +3378,11 @@
       "id": 237597984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-25T19:32:55Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-27T22:38:54Z",
+      "open_issues": 0,
       "owner": "Corsinvest",
       "repo": "awesome-proxmox-ve",
-      "stars": 1109,
+      "stars": 1111,
       "topics": [
         "article",
         "awesome",
@@ -3294,7 +3396,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "5ac6da6c2e33b0c192063d58b7d24392312f3c63",
+    "original_repository_sha": "2145497ce273ab7808b040622181f07190b3fec0",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE with stars"
