@@ -8,9 +8,9 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve/issues) ⭐ 1,124 | 🐛 0 | 📅 2026-10-01
-[![Stars](https://img.shields.io/github/stars/Corsinvest/awesome-proxmox-ve?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve) ⭐ 1,124 | 🐛 0 | 📅 2026-10-01
-[![Forks](https://img.shields.io/github/forks/Corsinvest/awesome-proxmox-ve?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve/fork) ⭐ 1,124 | 🐛 0 | 📅 2026-10-01
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve/issues)
+[![Stars](https://img.shields.io/github/stars/Corsinvest/awesome-proxmox-ve?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve)
+[![Forks](https://img.shields.io/github/forks/Corsinvest/awesome-proxmox-ve?style=flat-square\&logo=github)](https://github.com/Corsinvest/awesome-proxmox-ve/fork)
 
   <p><em>A comprehensive collection of <strong>excellent</strong> <a href="https://pve.proxmox.com">Proxmox VE</a> resources including documentation, tools, tutorials, and community contributions.</em></p>
 </div>
@@ -148,7 +148,7 @@
 
 ## Monitoring
 
-* [Pulse](https://github.com/rcourtman/Pulse) ⭐ 6,774 | 🐛 72 | 🌐 Go | 📅 2026-10-03 - Real-time monitoring for Proxmox VE and PBS with guest, storage and backup visibility, alerting, and a multi-client mode for providers.
+* [Pulse](https://github.com/rcourtman/Pulse) ⭐ 6,774 | 🐛 73 | 🌐 Go | 📅 2026-10-03 - Real-time monitoring for Proxmox VE and PBS with guest, storage and backup visibility, alerting, and a multi-client mode for providers.
 * [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ⭐ 1,460 | 🐛 41 | 🌐 Python | 📅 2026-09-23
 * [PVE-UPS](https://github.com/ffind-dev/pve-ups) ⭐ 301 | 🐛 5 | 🌐 Python | 📅 2026-09-17 - UPS shutdown appliance for Proxmox VE with a web wizard, an alternative to NUT.
 * [check\_pve](https://github.com/nbuchwitz/check_pve) ⭐ 135 | 🐛 12 | 🌐 Python | 📅 2026-09-10 - Icinga/Nagios plugin to monitor Proxmox VE nodes, VMs, storage and cluster health.
@@ -238,7 +238,7 @@
 
 * [ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) ⭐ 567 | 🐛 0 | 🌐 Python | 📅 2026-10-01 - Enhanced Proxmox MCP server with advanced virtualization management and full OpenAPI integration.
 * [ProxmoxMCP](https://github.com/canvrno/ProxmoxMCP) ⭐ 293 | 🐛 15 | 🌐 Python | 📅 2025-02-19 - MCP server for Proxmox VE management, enabling AI assistants to control VMs, containers, and cluster resources.
-* [Proximo](https://github.com/john-broadway/proximo) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - AI-driven natural-language assistant for managing Proxmox VE.
+* [Proximo](https://github.com/john-broadway/proximo) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - AI-driven natural-language assistant for managing Proxmox VE.
 * [mcp-proxmox](https://github.com/antonio-mello-ai/mcp-proxmox) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2026-09-21 - MCP server for managing Proxmox VE clusters through AI assistants.
 
 ***
@@ -301,10 +301,10 @@
 ## Infrastructure as Code
 
 * [terraform-provider-proxmox (Telmate)](https://github.com/Telmate/terraform-provider-proxmox) ⭐ 2,954 | 🐛 131 | 🌐 Go | 📅 2026-09-14
-* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) ⭐ 2,244 | 🐛 98 | 🌐 Go | 📅 2026-10-02
+* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) ⭐ 2,244 | 🐛 99 | 🌐 Go | 📅 2026-10-03
 * [Ansible Role - Proxmox](https://github.com/lae/ansible-role-proxmox) ⭐ 694 | 🐛 23 | 🌐 Python | 📅 2026-07-13 - Ansible role that installs Proxmox VE on Debian hosts and builds the cluster.
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 594 | 🐛 1 | 🌐 Ruby | 📅 2026-09-25 - GitOps workflow to manage Proxmox VE infrastructure declaratively.
-* [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) ⭐ 226 | 🐛 24 | 🌐 Go | 📅 2026-10-02 - Pulumi provider for creating and managing Proxmox VE resources.
+* [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) ⭐ 226 | 🐛 24 | 🌐 Go | 📅 2026-10-03 - Pulumi provider for creating and managing Proxmox VE resources.
 * [Ansible Collection - community.proxmox](https://github.com/ansible-collections/community.proxmox) ⭐ 144 | 🐛 87 | 🌐 Python | 📅 2026-09-30
 * [foreman\_fog\_proxmox](https://github.com/theforeman/foreman_fog_proxmox) ⭐ 114 | 🐛 63 | 🌐 Ruby | 📅 2026-09-21 - Foreman plugin that adds Proxmox VE as a compute resource.
 * [Packer Plugin for Proxmox VE](https://developer.hashicorp.com/packer/integrations/hashicorp/proxmox)
@@ -336,7 +336,7 @@
 
 ## Other Tools
 
-* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,715 | 🐛 16 | 🌐 Shell | 📅 2026-10-03
+* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,716 | 🐛 16 | 🌐 Shell | 📅 2026-10-03
 * [OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) ⭐ 7,804 | 🐛 3 | 🌐 Shell | 📅 2026-09-27 - Script to install macOS on Proxmox VE 7 to 9.
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) ⭐ 3,076 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-02
 * [PVE-mods](https://github.com/Meliox/PVE-mods) ⭐ 1,945 | 🐛 22 | 🌐 Shell | 📅 2026-09-27
@@ -344,7 +344,7 @@
 * [OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) ⭐ 851 | 🐛 1 | 🌐 C | 📅 2026-08-18 - Preconfigured OpenCore ISO image to run macOS on Proxmox VE and QEMU/KVM.
 * [pvetui](https://github.com/devnullvoid/pvetui) ⭐ 734 | 🐛 5 | 🌐 Go | 📅 2026-10-02
 * [intel-igpu-passthru](https://github.com/LongQT-sea/intel-igpu-passthru) ⭐ 543 | 🐛 1 | 🌐 Shell | 📅 2026-06-04 - Intel GVT-d iGPU passthrough for Proxmox VE, QEMU and KVM.
-* [pve-microvm](https://github.com/rcarmo/pve-microvm) ⭐ 406 | 🐛 1 | 🌐 Shell | 📅 2026-09-30 - Run lightweight microVMs on Proxmox VE.
+* [pve-microvm](https://github.com/rcarmo/pve-microvm) ⭐ 408 | 🐛 1 | 🌐 Shell | 📅 2026-09-30 - Run lightweight microVMs on Proxmox VE.
 * [PVE Scripts Local](https://github.com/community-scripts/ProxmoxVE-Local) ⭐ 379 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - Local web UI to browse and run the Proxmox VE Helper-Scripts.
 * [dockur/proxmox](https://github.com/dockur/proxmox) ⭐ 319 | 🐛 4 | 🌐 Shell | 📅 2026-08-30 - Proxmox VE node running inside a Docker container, for labs and CI.
 * [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) ⭐ 276 | 🐛 0 | 🌐 Python | 📅 2026-09-20 - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery auto-download, and AMD/Intel support.
@@ -390,7 +390,7 @@
 
 ## Templates & Marketplace
 
-* [TrueNAS SCALE Community Catalog](https://github.com/trueforge-org/truecharts) ⭐ 1,355 | 🐛 156 | 🌐 Go Template | 📅 2026-10-02
+* [TrueNAS SCALE Community Catalog](https://github.com/trueforge-org/truecharts) ⭐ 1,355 | 🐛 155 | 🌐 Go Template | 📅 2026-10-03
 * [LinuxServer Container Templates](https://github.com/linuxserver/docker-templates) ⭐ 41 | 🐛 0 | 📅 2026-07-18
 * [TurnKey Linux Proxmox LXC Templates](https://www.turnkeylinux.org/docs/proxmox-lxc)
 * [TTECK Proxmox LXC Templates & Utilities](https://tteck.github.io/Proxmox/)
@@ -515,7 +515,7 @@
 
 ### Windows & Linux
 
-* [Nexus Terminal](https://github.com/evdanil/vscode-NexTerminal) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-02 - VS Code and VSCodium extension that syncs Proxmox VMs and containers into SSH profiles and opens their web consoles.
+* [Nexus Terminal](https://github.com/evdanil/vscode-NexTerminal) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - VS Code and VSCodium extension that syncs Proxmox VMs and containers into SSH profiles and opens their web consoles.
 * [VirtDeck](https://github.com/mcluremail/virtdeck) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-15 - Native desktop client for Proxmox VE: monitoring, VM/container management, backups and direct Proxmox Backup Server integration (PySide6, Windows and Linux).
 
 ***
@@ -523,7 +523,7 @@
 ## Smart Home
 
 * [Proxmox VE Custom Integration for Home Assistant](https://github.com/dougiteixeira/proxmoxve) ⭐ 970 | 🐛 12 | 🌐 Python | 📅 2026-10-01 - Home Assistant integration to poll data and control a Proxmox VE instance.
-* [Proxmox Extended Sensors](https://github.com/Javisen/proxmox_sensors) ⭐ 70 | 🐛 5 | 🌐 Python | 📅 2026-10-02 - Monitoring and control of Proxmox VE and Proxmox Backup Server in Home Assistant.
+* [Proxmox Extended Sensors](https://github.com/Javisen/proxmox_sensors) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2026-10-02 - Monitoring and control of Proxmox VE and Proxmox Backup Server in Home Assistant.
 
 ***
 

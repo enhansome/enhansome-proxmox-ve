@@ -997,7 +997,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-03T01:08:05Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "rcourtman",
             "repo": "Pulse",
             "stars": 6774,
@@ -1029,7 +1029,7 @@
         {
           "node_type": "item",
           "title": "Prometheus Proxmox VE Exporter",
-          "description": null,
+          "description": "prometheus-pve/prometheus-pve-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1326,7 +1326,7 @@
         {
           "node_type": "item",
           "title": "PBS_Chunk_Checker",
-          "description": null,
+          "description": "VoltKraft/PBS_Chunk_Checker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1384,7 +1384,7 @@
         {
           "node_type": "item",
           "title": "pve-bindsnap",
-          "description": null,
+          "description": "bitranox/pve-bindsnap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1450,7 +1450,7 @@
         {
           "node_type": "item",
           "title": "TrueNAS Proxmox VE Storage Plugin",
-          "description": null,
+          "description": "truenas/truenas-proxmox-plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source",
-          "description": null,
+          "description": "kolesa-team/pve-purestorage-plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1884,8 +1884,8 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:47:45Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T04:42:05Z",
+            "open_issues": 1,
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 50,
@@ -1959,7 +1959,7 @@
                 {
                   "node_type": "item",
                   "title": "Proxmoxia (Wrapper)",
-                  "description": null,
+                  "description": "baseblack/Proxmoxia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1980,7 +1980,7 @@
                 {
                   "node_type": "item",
                   "title": "proxmox-utils (Console Client)",
-                  "description": null,
+                  "description": "sitrox/proxmox-utils",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2001,7 +2001,7 @@
                 {
                   "node_type": "item",
                   "title": "pmxc (Console Client)",
-                  "description": null,
+                  "description": "jochumdev/pmxc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2022,7 +2022,7 @@
                 {
                   "node_type": "item",
                   "title": "proxmox-sdk",
-                  "description": null,
+                  "description": "emersonfelipesp/proxmox-sdk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2060,7 +2060,7 @@
                 {
                   "node_type": "item",
                   "title": "cv4pve-api-powershell",
-                  "description": null,
+                  "description": "Corsinvest/cv4pve-api-powershell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2106,7 +2106,7 @@
                 {
                   "node_type": "item",
                   "title": "nledez/proxmox",
-                  "description": null,
+                  "description": "nledez/proxmox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2134,7 +2134,7 @@
                 {
                   "node_type": "item",
                   "title": "cv4pve-api-javascript",
-                  "description": null,
+                  "description": "Corsinvest/cv4pve-api-javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2181,7 +2181,7 @@
                 {
                   "node_type": "item",
                   "title": "cv4pve-api-dotnet",
-                  "description": null,
+                  "description": "Corsinvest/cv4pve-api-dotnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2223,7 +2223,7 @@
                 {
                   "node_type": "item",
                   "title": "ProxmoxSharp",
-                  "description": null,
+                  "description": "ionelanton/ProxmoxSharp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2251,7 +2251,7 @@
                 {
                   "node_type": "item",
                   "title": "ProxmoxVE",
-                  "description": null,
+                  "description": "zzantares/ProxmoxVE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2272,7 +2272,7 @@
                 {
                   "node_type": "item",
                   "title": "pve2-api-php-client",
-                  "description": null,
+                  "description": "CpuID/pve2-api-php-client",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2293,7 +2293,7 @@
                 {
                   "node_type": "item",
                   "title": "cv4pve-api-php",
-                  "description": null,
+                  "description": "Corsinvest/cv4pve-api-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2334,7 +2334,7 @@
                 {
                   "node_type": "item",
                   "title": "MrKampf/proxmoxVE",
-                  "description": null,
+                  "description": "MrKampf/proxmoxVE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2369,7 +2369,7 @@
                 {
                   "node_type": "item",
                   "title": "pve-cli-utils",
-                  "description": null,
+                  "description": "aheahe/pve-cli-utils",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2397,7 +2397,7 @@
                 {
                   "node_type": "item",
                   "title": "cv4pve-api-java",
-                  "description": null,
+                  "description": "Corsinvest/cv4pve-api-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2438,7 +2438,7 @@
                 {
                   "node_type": "item",
                   "title": "pve2-api-java",
-                  "description": null,
+                  "description": "elbandi/pve2-api-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2466,7 +2466,7 @@
                 {
                   "node_type": "item",
                   "title": "proxmox-api-go",
-                  "description": null,
+                  "description": "Telmate/proxmox-api-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2487,7 +2487,7 @@
                 {
                   "node_type": "item",
                   "title": "go-proxmox",
-                  "description": null,
+                  "description": "luthermonson/go-proxmox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2536,7 +2536,7 @@
         {
           "node_type": "item",
           "title": "terraform-provider-proxmox (Telmate)",
-          "description": null,
+          "description": "Telmate/terraform-provider-proxmox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2557,7 +2557,7 @@
         {
           "node_type": "item",
           "title": "Terraform Provider for Proxmox",
-          "description": null,
+          "description": "bpg/terraform-provider-proxmox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2566,8 +2566,8 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T21:10:57Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-03T04:47:33Z",
+            "open_issues": 99,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
             "stars": 2244,
@@ -2649,7 +2649,7 @@
             "id": 429829622,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:00:27Z",
+            "last_commit": "2026-10-03T04:26:24Z",
             "open_issues": 24,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
@@ -2666,7 +2666,7 @@
         {
           "node_type": "item",
           "title": "Ansible Collection - community.proxmox",
-          "description": null,
+          "description": "ansible-collections/community.proxmox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2791,7 +2791,7 @@
         {
           "node_type": "item",
           "title": "Cluster API Provider for Proxmox VE (CAPMOX)",
-          "description": null,
+          "description": "ionos-cloud/cluster-api-provider-proxmox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2932,7 +2932,7 @@
         {
           "node_type": "item",
           "title": "Proxmox VM Autoscale",
-          "description": null,
+          "description": "fabriziosalmi/proxmox-vm-autoscale",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2962,7 +2962,7 @@
         {
           "node_type": "item",
           "title": "LXC AutoScale",
-          "description": null,
+          "description": "fabriziosalmi/proxmox-lxc-autoscale",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2994,7 +2994,7 @@
         {
           "node_type": "item",
           "title": "ProxLB",
-          "description": null,
+          "description": "credativ/ProxLB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3086,7 +3086,7 @@
         {
           "node_type": "item",
           "title": "Proxmox VE Helper-Scripts",
-          "description": null,
+          "description": "community-scripts/ProxmoxVE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3095,11 +3095,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:35:55Z",
+            "last_commit": "2026-10-03T02:05:41Z",
             "open_issues": 16,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29715,
+            "stars": 29716,
             "topics": [
               "alpine",
               "authentification",
@@ -3156,7 +3156,7 @@
         {
           "node_type": "item",
           "title": "ProxMenux",
-          "description": null,
+          "description": "MacRimi/ProxMenux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3188,7 +3188,7 @@
         {
           "node_type": "item",
           "title": "PVE-mods",
-          "description": null,
+          "description": "Meliox/PVE-mods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3209,7 +3209,7 @@
         {
           "node_type": "item",
           "title": "Proxmox-Enhanced-Configuration-Utility (PECU)",
-          "description": null,
+          "description": "Danilop95/Proxmox-Enhanced-Configuration-Utility",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3271,7 +3271,7 @@
         {
           "node_type": "item",
           "title": "pvetui",
-          "description": null,
+          "description": "devnullvoid/pvetui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3347,7 +3347,7 @@
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 406,
+            "stars": 408,
             "topics": [
               "homelab",
               "microvm",
@@ -3566,7 +3566,7 @@
         {
           "node_type": "item",
           "title": "proxtagger",
-          "description": null,
+          "description": "Reginleif86/proxtagger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3731,7 +3731,7 @@
         {
           "node_type": "item",
           "title": "ProxMigrate",
-          "description": null,
+          "description": "AthenaNetworks/ProxMigrate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3758,7 +3758,7 @@
         {
           "node_type": "item",
           "title": "TrueNAS SCALE Community Catalog",
-          "description": null,
+          "description": "trueforge-org/truecharts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3767,8 +3767,8 @@
             "id": 323109016,
             "language": "Go Template",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T19:21:24Z",
-            "open_issues": 156,
+            "last_commit": "2026-10-03T01:31:42Z",
+            "open_issues": 155,
             "owner": "trueforge-org",
             "repo": "truecharts",
             "stars": 1355,
@@ -3788,7 +3788,7 @@
         {
           "node_type": "item",
           "title": "LinuxServer Container Templates",
-          "description": null,
+          "description": "linuxserver/docker-templates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3922,7 +3922,7 @@
         {
           "node_type": "item",
           "title": "Proxmox Dark Theme (User script)",
-          "description": null,
+          "description": "Weilbyte/PVEDiscordDark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4214,7 +4214,7 @@
         {
           "node_type": "item",
           "title": "Proxmox Wake on LAN",
-          "description": null,
+          "description": "Aizen-Barbaros/Proxmox-WoL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4377,8 +4377,8 @@
                 "id": 1157832039,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:28:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T02:52:09Z",
+                "open_issues": 0,
                 "owner": "evdanil",
                 "repo": "vscode-NexTerminal",
                 "stars": 15,
@@ -4463,7 +4463,7 @@
             "open_issues": 5,
             "owner": "Javisen",
             "repo": "proxmox_sensors",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "home-assistant-hacs-integration-proxmox"
             ]
@@ -4612,7 +4612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:14:08.167Z",
+    "last_updated": "2026-10-03T05:05:58.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Proxmox VE documentation, tools, api, blogs, site",
